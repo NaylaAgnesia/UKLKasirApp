@@ -1,7 +1,7 @@
 # UKLKasirApp
-Nama: Nayla Agnesia Widiya Putri
-No: 27
-Kelas: XIR3
+<h1><b>Nama: Nayla Agnesia Widiya Putri<b><h1>
+<h1><b>No: 27<b><h1>
+<h1><b>Kelas: XIR3<b><h1>
 <img width="217" alt="image" src="https://github.com/NaylaAgnesia/UKLKasirApp/assets/110014840/c025d31e-8d58-4187-9dfa-20c94907603e">
 <img width="242" alt="image" src="https://github.com/NaylaAgnesia/UKLKasirApp/assets/110014840/5890e2dd-1993-4a90-b7c7-a9a2b88f5e0f">
 <img width="203" alt="image" src="https://github.com/NaylaAgnesia/UKLKasirApp/assets/110014840/66de89cc-ca19-4c75-bbce-3187b2fa3c33">
